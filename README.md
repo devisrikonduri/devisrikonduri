@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**devisrikonduri/devisrikonduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Psychon
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Devisri
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Web+Developer;Creative+Technologist;Building+Future+Projects">
@@ -22,16 +6,17 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚡ Tech Stack
+⚡ Tech Stacks
 
 <p align="center">
-## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="./python.png" width="50"/>
+<img src="./js.png" width="50"/>
+<img src="./html.png" width="50"/>
+<img src="./css.png" width="50"/>
+<img src="./cpp.png" width="50"/>
+<img src ="./react.png" width = "50"/>
+
 </p>
 
 ---
@@ -39,8 +24,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devisrikonduri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisrikonduri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -48,7 +33,7 @@ Here are some ideas to get you started:
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=devisrikonduri&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -56,21 +41,21 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/devisrikonduri/devisrikonduri/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
 ## 🚀 Projects
 
-🌌 Space Portfolio  
-🤖 AI Chatbot  
-📊 Data Dashboard  
+🌌 Space Portfolio
+🤖 AI Chatbot
+📊 Data Dashboard
 
 ---
 
 ## 🌌 Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=devisrikonduri&color=blueviolet&style=for-the-badge"/>
 </p>
