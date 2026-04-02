@@ -38,13 +38,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/devisrikonduri/devisrikonduri/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ## 🚀 Projects
 
